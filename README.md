@@ -4,19 +4,18 @@
 
 Hey guys, what I could have accomplished in my free time...
 
-users and auth
-
-  -register user (cannot register same user twice)
-  -login user
-  -get auth user
+users and auth  ->
+  -register user (cannot register same user twice)  
+  -login user  
+  -get auth user  
   
-profiles ->
-  -create profile (submit your favSubreddits, newsletterSendTime, opt in to newsletter)
-  -update profile (favSubreddits, newsletterSendTime, wantsNewsletter)
-  -get logged in user profile
-  -get profile by user_id
-  -get all profiles
+profiles ->  
+  -create profile (submit your favSubreddits, newsletterSendTime, opt in to newsletter)  
+  -update profile (favSubreddits, newsletterSendTime, wantsNewsletter)  
+  -get logged in user profile  
+  -get profile by user_id  
+  -get all profiles  
   
-reddits ->
- -get reddit by user Id ( partially completed - defaults to the news reddit top stories)
+reddits ->  
+ -get reddit by user Id ( partially completed - defaults to the news reddit top stories)  
  
